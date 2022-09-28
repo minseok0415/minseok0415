@@ -1,5 +1,4 @@
 <div align="center">
-<img src="./헤더.png">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Minseok%20Kang&fontSize=90" />
 <h1>Hi! I'm Minseok</h1>
-<img src="./푸터.png">
 <div>
