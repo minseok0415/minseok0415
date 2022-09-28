@@ -25,6 +25,6 @@
 <br><br><br>
 <h1>🎖️CERTIFICATES📄</h1>
 <img src="https://img.shields.io/badge/SQLD-0099E5?style=for-the-badge&logoColor=white">
-<br><br><br>
-<a href="https://www.flaticon.com/kr/free-icons/" title="지식 아이콘">지식 아이콘  제작자: lutfix - Flaticon</a><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&text=Thank%20You&fontSize=70&animation=fadeIn" />
+<br><br><br><br><br><br>
+<a href="https://www.flaticon.com/kr/free-icons/" title="지식 아이콘">Profile Icon From: lutfix - Flaticon</a><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&text=Thank%20You&fontSize=70&animation=fadeIn" />
 <div>
